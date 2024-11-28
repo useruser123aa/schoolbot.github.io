@@ -1,5 +1,6 @@
 <html lang="ru">
+    <head>
+    <meta charset="UTF-8">
+    <title>Школьный бот</title>
 <body>
-    <div id="main">
-        <h1>Школьный бот</h1>
-        <button id="buy">Изменения в расписании</button>
+    <button id="buy">Изменения в расписании</button>
